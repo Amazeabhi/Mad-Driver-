@@ -8,10 +8,25 @@ The game runs entirely in the browser using an HTML5 `<canvas>` element and load
 Get ready to drive, balance, and survive challenging terrains 🚘💥
 
 ---
-
 ## ▶️ Launch Game
 
-👉 **[🚀 Click Here to Play Drive Mad](https://amazeabhi.github.io/Mad-Driver-/)** 🚗🏁
+<p align="center">
+  <a href="https://amazeabhi.github.io/Mad-Driver-/" target="_blank"
+     style="
+       display:inline-block;
+       padding:18px 40px;
+       font-size:20px;
+       font-weight:bold;
+       color:#ffffff;
+       background-color:#ff5722;
+       border-radius:14px;
+       text-decoration:none;
+       box-shadow:0 6px 0 #c63d14;
+     ">
+     🚀 PLAY DRIVE MAD 🚗
+  </a>
+</p>
+
 
 ---
 

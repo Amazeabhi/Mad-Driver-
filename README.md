@@ -1,23 +1,30 @@
-# Drive Mad – WebAssembly Browser Game
+# 🚗 Drive Mad – WebAssembly Browser Game 🏎️
 
 ## Description
 
 **Drive Mad** is a browser-based physics driving game built using **HTML5**, **JavaScript**, and **WebAssembly (WASM)**.  
 The game runs entirely in the browser using an HTML5 `<canvas>` element and loads its core logic and assets through an Emscripten-generated WebAssembly module.
 
-This repository contains the complete web loader required to run the game on a local server or any static hosting platform.
+Get ready to drive, balance, and survive challenging terrains 🚘💥
+
+---
+
+## ▶️ Launch Game
+
+👉 **[🚀 Click Here to Play Drive Mad](https://amazeabhi.github.io/Mad-Driver-/)** 🚗🏁
 
 ---
 
 ## Features
 
-- High-performance gameplay using WebAssembly
-- HTML5 Canvas rendering
-- Responsive fullscreen support
-- Touch, mouse, and keyboard input
-- Progressive loading indicator
-- Asset loading via Emscripten virtual file system
-- Desktop and mobile browser compatibility
+- 🚗 Physics-based driving gameplay  
+- ⚡ High-performance WebAssembly engine  
+- 🖥️ HTML5 Canvas & WebGL rendering  
+- 📱 Touch, mouse, and keyboard controls  
+- 🔄 Responsive fullscreen support  
+- ⏳ Progressive loading indicator  
+- 📦 Asset management via Emscripten FS  
+- 🌐 Runs smoothly on modern browsers  
 
 ---
 
@@ -30,5 +37,3 @@ This repository contains the complete web loader required to run the game on a l
 - Emscripten  
 - WebGL  
 - Canvas API  
-
----
